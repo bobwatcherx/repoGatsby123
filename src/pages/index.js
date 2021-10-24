@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 
 const IndexPage = () => (
    <div>
-   <h1>My Gatsby APP</h1>
+   <h1>My Gatsby APP my  test</h1>
    </div>
 )
 
